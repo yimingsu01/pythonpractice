@@ -3,8 +3,8 @@ from os import system
 import time
 import random
 
-INIT_CONFIG = [[10, 10], [10, 8], [9, 9], [11, 9], [12, 9], [8, 9], [7, 9], [13, 9]]
-# INIT_CONFIG = [[10, 10], [10, 8], [9, 9], [11, 9], [12, 9], [8, 9]]
+# INIT_CONFIG = [[10, 10], [10, 8], [9, 9], [11, 9], [12, 9], [8, 9], [7, 9], [13, 9]]
+INIT_CONFIG = [[10, 10], [10, 8], [9, 9], [11, 9], [12, 9], [8, 9]]
 # for i in range(0, 9, 1):
 #     temp = []
 #     temp.append(random.randint(0, 9))
