@@ -157,3 +157,4 @@ maze.setWall(4, 4)
 # maze.draw()
 maze.findPath(maze.start)
 maze.draw()
+
